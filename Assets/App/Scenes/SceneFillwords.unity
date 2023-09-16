@@ -568,7 +568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   configLevelSelection:
-    TotalLevelCount: 10
+    TotalLevelCount: 3
     InitLevelIndex: 1
 --- !u!1 &1109098107
 GameObject:
@@ -966,38 +966,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2331124866747519488, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4442225443648932014, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4442225443648932014, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4442225443648932014, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4442225443648932014, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5579327707934734292, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5579327707934734292, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5579327707934734292, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5579327707934734292, guid: b08bacc392c1f41de8601f85ca352549, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
